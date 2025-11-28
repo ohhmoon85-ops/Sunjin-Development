@@ -16,7 +16,8 @@ export const Services: React.FC = () => {
         '법규 검토 및 최유효 이용 방안(Best Use) 수립',
         '사업 수지 분석(Cash Flow) 및 리스크 헷지 전략'
       ],
-      image: "https://images.unsplash.com/photo-1463620910506-d0458143143c?q=80&w=2070&auto=format&fit=crop"
+      // Updated to a reliable meeting/consulting image
+      image: "https://images.unsplash.com/photo-1554469384-e58fac16e23a?q=80&w=2069&auto=format&fit=crop"
     },
     {
       id: 'pm',
@@ -29,7 +30,8 @@ export const Services: React.FC = () => {
         '공정 관리, 원가 관리, 품질 관리 (Total Management)',
         '복잡한 인허가 및 대관 업무 대행'
       ],
-      image: "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?q=80&w=2070&auto=format&fit=crop"
+      // Reliable construction/architecture image
+      image: "https://images.unsplash.com/photo-1503387762-592deb58ef4e?q=80&w=2071&auto=format&fit=crop"
     },
     {
       id: 'asset',
@@ -42,7 +44,8 @@ export const Services: React.FC = () => {
         '상업용 부동산 매입/매각 자문',
         '절세 전략 수립 및 금융 컨설팅 연계'
       ],
-      image: "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1992&auto=format&fit=crop"
+      // Reliable skyscraper/business image
+      image: "https://images.unsplash.com/photo-1486325212027-8081e485255e?q=80&w=2070&auto=format&fit=crop"
     }
   ];
 
